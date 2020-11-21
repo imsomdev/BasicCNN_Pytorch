@@ -7,3 +7,6 @@
 ![Result](CNN_Result.png)
 
 
+
+Dataset Source: https://www.kaggle.com/alessiocorrado99/animals10
+
